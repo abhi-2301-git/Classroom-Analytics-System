@@ -8,6 +8,7 @@ Install the required dependencies:
     1.open cmd 
     2.pip install pandas  openpyxl  tk
     ```
+### donwload the CAS.zip and extracted and run main.py 
 ## Contact
 
 If you have any questions or feedback, please contact me at abhnv.msh@gmail.com
