@@ -1,7 +1,7 @@
 # Classroom Analytics System
 
-This is my first GUI project. The Classroom Analytics System is designed to help educators analyze and visualize 
-classroom data to improve teaching and learning outcomes.
+This is my first GUI project. The Classroom Analytics System is designed to help educators 
+analyze and visualize classroom data.
 
 Install the required dependencies:
     ```
